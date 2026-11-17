@@ -11,5 +11,5 @@ Estudante de Análise e Desenvolvimento de Sistemas (UDF) com formação técnic
 - **Portfólio Pessoal:** Centralização dos meus projetos acadêmicos e aplicações práticas.
 
 #### Onde me encontrar
-- https://www.linkedin.com/in/felipe-kichileski-bom-6799a126b/
+- **LinkedIn:** https://www.linkedin.com/in/felipe-kichileski-bom-6799a126b/
 - **E-mail:** felipebom15@gmail.com
