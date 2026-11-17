@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá, eu sou o Felipe Kichileski Bom👋
 
-<!--
-**felipekichileski/felipekichileski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (UDF) com formação técnica em Administração. Atualmente foco meus estudos no desenvolvimento web e back-end, unindo organização de processos e construção de software prático.
 
-Here are some ideas to get you started:
+#### Tecnologias e Ferramentas
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, Next.js, Tailwind CSS
+- **Back-end e Dados:** Java, Python, SQL
+- **Infraestrutura e Versionamento:** Git, GitHub, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### O que estou construindo
+- **Portfólio Pessoal:** Centralização dos meus projetos acadêmicos e aplicações práticas.
+
+#### Onde me encontrar
+- https://www.linkedin.com/in/felipe-kichileski-bom-6799a126b/
+- **E-mail:** felipebom15@gmail.com
